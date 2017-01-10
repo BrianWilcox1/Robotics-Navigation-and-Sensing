@@ -1,0 +1,7 @@
+Author: Brian Wilcox
+Class: EECE 5698
+Date: 1/9/2017
+Homework1
+
+I have an Ubuntu 14.04 LTS install and set up a repository for git for this class.
+
