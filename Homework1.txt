@@ -1,4 +1,4 @@
-Author: Brian Wilcox
+ Author: Brian Wilcox
 Class: EECE 5698
 Date: 1/9/2017
 Homework1
