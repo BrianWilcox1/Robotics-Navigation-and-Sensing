@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="3" failures="0" disabled="0" errors="0" timestamp="2015-01-21T22:08:43" time="0" name="AllTests">
+  <testsuite name="LCM_C" tests="3" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="EventLogBasic" status="run" time="0" classname="LCM_C" />
+    <testcase name="EventLogWriteRead" status="run" time="0" classname="LCM_C" />
+    <testcase name="EventLogCorrupt" status="run" time="0" classname="LCM_C" />
+  </testsuite>
+</testsuites>

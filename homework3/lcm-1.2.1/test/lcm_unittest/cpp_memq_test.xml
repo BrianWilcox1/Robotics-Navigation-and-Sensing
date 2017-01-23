@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="4" failures="0" disabled="0" errors="0" timestamp="2015-01-21T22:08:43" time="0.012" name="AllTests">
+  <testsuite name="LCM_CPP" tests="4" failures="0" disabled="0" errors="0" time="0.012">
+    <testcase name="MemqConstructDestroy" status="run" time="0" classname="LCM_CPP" />
+    <testcase name="MemqSimple" status="run" time="0.001" classname="LCM_CPP" />
+    <testcase name="MemqBuffered" status="run" time="0.001" classname="LCM_CPP" />
+    <testcase name="MemqTimeout" status="run" time="0.01" classname="LCM_CPP" />
+  </testsuite>
+</testsuites>

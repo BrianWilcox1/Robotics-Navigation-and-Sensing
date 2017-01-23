@@ -1,0 +1,12 @@
+<testsuite errors="0" failures="0" name="LCM_PYTHON" tests="8" time="0.331">
+  <testcase classname="lcm_file_test.TestLcmFile" name="test_read_or_write_only" time="0.0082"></testcase>
+  <testcase classname="lcm_thread_test.TestLcmThreads" name="test_handle_and_publish" time="0.1006"></testcase>
+  <testcase classname="lcm_thread_test.TestLcmThreads" name="test_two_handle" time="0.1006"></testcase>
+  <testcase classname="lcm_thread_test.TestLcmThreads" name="test_two_handle_timeout" time="0.1006"></testcase>
+  <testcase classname="bool_test.TestBools" name="test_bool" time="0.0001"></testcase>
+  <testcase classname="lcm_memq_test.TestLcmMemq" name="test_timeout" time="0.0203"></testcase>
+  <testcase classname="byte_array_test.TestByteArray" name="test_construct" time="0.0000"></testcase>
+  <testcase classname="byte_array_test.TestByteArray" name="test_fill" time="0.0000"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
