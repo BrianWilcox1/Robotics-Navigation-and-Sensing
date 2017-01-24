@@ -1,0 +1,13 @@
+package exlcm;
+
+struct gpgga_data
+{
+    float timestamp;
+    float  latitude;
+    string direction1;
+    float  longitude;
+    string direction2;
+    float  altitude;
+    int64_t utm_x;
+    int64_t utm_y;
+}
