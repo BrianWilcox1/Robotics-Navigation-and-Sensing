@@ -1,0 +1,710 @@
+Message:
+   timestamp   = 150516.0
+   latitude = 4220.38574219
+   latitude direction    = N
+   longitude    = 7105.35302734
+   longitude direction = W
+   altitude    = 10.3999996185
+   utm_x    = 327896
+   utm_y    = 4689614
+
+Message:
+   timestamp   = 150517.0
+   latitude = 4220.38574219
+   latitude direction    = N
+   longitude    = 7105.35302734
+   longitude direction = W
+   altitude    = 10.3999996185
+   utm_x    = 327896
+   utm_y    = 4689614
+
+Message:
+   timestamp   = 150518.0
+   latitude = 4220.38623047
+   latitude direction    = N
+   longitude    = 7105.35253906
+   longitude direction = W
+   altitude    = 10.1999998093
+   utm_x    = 327896
+   utm_y    = 4689615
+
+Message:
+   timestamp   = 150519.0
+   latitude = 4220.38623047
+   latitude direction    = N
+   longitude    = 7105.35253906
+   longitude direction = W
+   altitude    = 10.3000001907
+   utm_x    = 327896
+   utm_y    = 4689615
+
+Message:
+   timestamp   = 150520.0
+   latitude = 4220.38574219
+   latitude direction    = N
+   longitude    = 7105.35253906
+   longitude direction = W
+   altitude    = 10.6999998093
+   utm_x    = 327896
+   utm_y    = 4689614
+
+Message:
+   timestamp   = 150521.0
+   latitude = 4220.38525391
+   latitude direction    = N
+   longitude    = 7105.35253906
+   longitude direction = W
+   altitude    = 10.8999996185
+   utm_x    = 327896
+   utm_y    = 4689613
+
+Message:
+   timestamp   = 150522.0
+   latitude = 4220.38476562
+   latitude direction    = N
+   longitude    = 7105.35205078
+   longitude direction = W
+   altitude    = 11.0
+   utm_x    = 327897
+   utm_y    = 4689612
+
+Message:
+   timestamp   = 150523.0
+   latitude = 4220.38427734
+   latitude direction    = N
+   longitude    = 7105.35205078
+   longitude direction = W
+   altitude    = 10.8999996185
+   utm_x    = 327897
+   utm_y    = 4689611
+
+Message:
+   timestamp   = 150524.0
+   latitude = 4220.38378906
+   latitude direction    = N
+   longitude    = 7105.3515625
+   longitude direction = W
+   altitude    = 10.6999998093
+   utm_x    = 327897
+   utm_y    = 4689610
+
+Message:
+   timestamp   = 150525.0
+   latitude = 4220.38330078
+   latitude direction    = N
+   longitude    = 7105.35107422
+   longitude direction = W
+   altitude    = 10.3999996185
+   utm_x    = 327898
+   utm_y    = 4689609
+
+Message:
+   timestamp   = 150526.0
+   latitude = 4220.3828125
+   latitude direction    = N
+   longitude    = 7105.35107422
+   longitude direction = W
+   altitude    = 10.3000001907
+   utm_x    = 327898
+   utm_y    = 4689608
+
+Message:
+   timestamp   = 150527.0
+   latitude = 4220.38232422
+   latitude direction    = N
+   longitude    = 7105.35058594
+   longitude direction = W
+   altitude    = 10.1999998093
+   utm_x    = 327898
+   utm_y    = 4689608
+
+Message:
+   timestamp   = 150528.0
+   latitude = 4220.38183594
+   latitude direction    = N
+   longitude    = 7105.35058594
+   longitude direction = W
+   altitude    = 10.1000003815
+   utm_x    = 327899
+   utm_y    = 4689607
+
+Message:
+   timestamp   = 150529.0
+   latitude = 4220.38085938
+   latitude direction    = N
+   longitude    = 7105.35058594
+   longitude direction = W
+   altitude    = 9.80000019073
+   utm_x    = 327899
+   utm_y    = 4689605
+
+Message:
+   timestamp   = 150530.0
+   latitude = 4220.38037109
+   latitude direction    = N
+   longitude    = 7105.35058594
+   longitude direction = W
+   altitude    = 9.69999980927
+   utm_x    = 327899
+   utm_y    = 4689604
+
+Message:
+   timestamp   = 150531.0
+   latitude = 4220.37988281
+   latitude direction    = N
+   longitude    = 7105.35009766
+   longitude direction = W
+   altitude    = 9.60000038147
+   utm_x    = 327899
+   utm_y    = 4689603
+
+Message:
+   timestamp   = 150532.0
+   latitude = 4220.37890625
+   latitude direction    = N
+   longitude    = 7105.35009766
+   longitude direction = W
+   altitude    = 9.5
+   utm_x    = 327899
+   utm_y    = 4689602
+
+Message:
+   timestamp   = 150533.0
+   latitude = 4220.37841797
+   latitude direction    = N
+   longitude    = 7105.34960938
+   longitude direction = W
+   altitude    = 9.39999961853
+   utm_x    = 327899
+   utm_y    = 4689601
+
+Message:
+   timestamp   = 150534.0
+   latitude = 4220.37792969
+   latitude direction    = N
+   longitude    = 7105.34960938
+   longitude direction = W
+   altitude    = 9.5
+   utm_x    = 327900
+   utm_y    = 4689600
+
+Message:
+   timestamp   = 150535.0
+   latitude = 4220.37695312
+   latitude direction    = N
+   longitude    = 7105.34960938
+   longitude direction = W
+   altitude    = 9.39999961853
+   utm_x    = 327900
+   utm_y    = 4689598
+
+Message:
+   timestamp   = 150536.0
+   latitude = 4220.37646484
+   latitude direction    = N
+   longitude    = 7105.34960938
+   longitude direction = W
+   altitude    = 9.30000019073
+   utm_x    = 327900
+   utm_y    = 4689597
+
+Message:
+   timestamp   = 150537.0
+   latitude = 4220.37597656
+   latitude direction    = N
+   longitude    = 7105.34912109
+   longitude direction = W
+   altitude    = 9.19999980927
+   utm_x    = 327900
+   utm_y    = 4689596
+
+Message:
+   timestamp   = 150538.0
+   latitude = 4220.37548828
+   latitude direction    = N
+   longitude    = 7105.34912109
+   longitude direction = W
+   altitude    = 9.39999961853
+   utm_x    = 327900
+   utm_y    = 4689595
+
+Message:
+   timestamp   = 150539.0
+   latitude = 4220.375
+   latitude direction    = N
+   longitude    = 7105.34863281
+   longitude direction = W
+   altitude    = 9.69999980927
+   utm_x    = 327901
+   utm_y    = 4689594
+
+Message:
+   timestamp   = 150540.0
+   latitude = 4220.375
+   latitude direction    = N
+   longitude    = 7105.34863281
+   longitude direction = W
+   altitude    = 9.80000019073
+   utm_x    = 327901
+   utm_y    = 4689594
+
+Message:
+   timestamp   = 150541.0
+   latitude = 4220.37451172
+   latitude direction    = N
+   longitude    = 7105.34814453
+   longitude direction = W
+   altitude    = 9.89999961853
+   utm_x    = 327901
+   utm_y    = 4689593
+
+Message:
+   timestamp   = 150542.0
+   latitude = 4220.37402344
+   latitude direction    = N
+   longitude    = 7105.34814453
+   longitude direction = W
+   altitude    = 10.0
+   utm_x    = 327902
+   utm_y    = 4689592
+
+Message:
+   timestamp   = 150543.0
+   latitude = 4220.37353516
+   latitude direction    = N
+   longitude    = 7105.34765625
+   longitude direction = W
+   altitude    = 10.0
+   utm_x    = 327902
+   utm_y    = 4689591
+
+Message:
+   timestamp   = 150544.0
+   latitude = 4220.37304688
+   latitude direction    = N
+   longitude    = 7105.34716797
+   longitude direction = W
+   altitude    = 9.89999961853
+   utm_x    = 327903
+   utm_y    = 4689590
+
+Message:
+   timestamp   = 150545.0
+   latitude = 4220.37255859
+   latitude direction    = N
+   longitude    = 7105.34716797
+   longitude direction = W
+   altitude    = 9.89999961853
+   utm_x    = 327903
+   utm_y    = 4689590
+
+Message:
+   timestamp   = 150546.0
+   latitude = 4220.37207031
+   latitude direction    = N
+   longitude    = 7105.34667969
+   longitude direction = W
+   altitude    = 9.89999961853
+   utm_x    = 327904
+   utm_y    = 4689589
+
+Message:
+   timestamp   = 150547.0
+   latitude = 4220.37158203
+   latitude direction    = N
+   longitude    = 7105.34619141
+   longitude direction = W
+   altitude    = 9.89999961853
+   utm_x    = 327904
+   utm_y    = 4689588
+
+Message:
+   timestamp   = 150548.0
+   latitude = 4220.37109375
+   latitude direction    = N
+   longitude    = 7105.34570312
+   longitude direction = W
+   altitude    = 9.89999961853
+   utm_x    = 327904
+   utm_y    = 4689587
+
+Message:
+   timestamp   = 150549.0
+   latitude = 4220.37060547
+   latitude direction    = N
+   longitude    = 7105.34570312
+   longitude direction = W
+   altitude    = 10.0
+   utm_x    = 327905
+   utm_y    = 4689586
+
+Message:
+   timestamp   = 150550.0
+   latitude = 4220.37011719
+   latitude direction    = N
+   longitude    = 7105.34521484
+   longitude direction = W
+   altitude    = 10.0
+   utm_x    = 327906
+   utm_y    = 4689585
+
+Message:
+   timestamp   = 150551.0
+   latitude = 4220.36962891
+   latitude direction    = N
+   longitude    = 7105.34472656
+   longitude direction = W
+   altitude    = 10.1000003815
+   utm_x    = 327906
+   utm_y    = 4689584
+
+Message:
+   timestamp   = 150552.0
+   latitude = 4220.36914062
+   latitude direction    = N
+   longitude    = 7105.34423828
+   longitude direction = W
+   altitude    = 10.1000003815
+   utm_x    = 327907
+   utm_y    = 4689583
+
+Message:
+   timestamp   = 150553.0
+   latitude = 4220.36865234
+   latitude direction    = N
+   longitude    = 7105.34375
+   longitude direction = W
+   altitude    = 10.1000003815
+   utm_x    = 327907
+   utm_y    = 4689582
+
+Message:
+   timestamp   = 150554.0
+   latitude = 4220.36816406
+   latitude direction    = N
+   longitude    = 7105.34326172
+   longitude direction = W
+   altitude    = 10.1000003815
+   utm_x    = 327908
+   utm_y    = 4689581
+
+Message:
+   timestamp   = 150555.0
+   latitude = 4220.36767578
+   latitude direction    = N
+   longitude    = 7105.34326172
+   longitude direction = W
+   altitude    = 10.1000003815
+   utm_x    = 327908
+   utm_y    = 4689580
+
+Message:
+   timestamp   = 150556.0
+   latitude = 4220.3671875
+   latitude direction    = N
+   longitude    = 7105.34277344
+   longitude direction = W
+   altitude    = 10.1000003815
+   utm_x    = 327908
+   utm_y    = 4689579
+
+Message:
+   timestamp   = 150557.0
+   latitude = 4220.36669922
+   latitude direction    = N
+   longitude    = 7105.34277344
+   longitude direction = W
+   altitude    = 10.1999998093
+   utm_x    = 327909
+   utm_y    = 4689578
+
+Message:
+   timestamp   = 150558.0
+   latitude = 4220.36572266
+   latitude direction    = N
+   longitude    = 7105.34228516
+   longitude direction = W
+   altitude    = 10.3000001907
+   utm_x    = 327909
+   utm_y    = 4689577
+
+Message:
+   timestamp   = 150559.0
+   latitude = 4220.36523438
+   latitude direction    = N
+   longitude    = 7105.34228516
+   longitude direction = W
+   altitude    = 10.5
+   utm_x    = 327909
+   utm_y    = 4689576
+
+Message:
+   timestamp   = 150600.0
+   latitude = 4220.36474609
+   latitude direction    = N
+   longitude    = 7105.34179688
+   longitude direction = W
+   altitude    = 10.5
+   utm_x    = 327910
+   utm_y    = 4689575
+
+Message:
+   timestamp   = 150601.0
+   latitude = 4220.36425781
+   latitude direction    = N
+   longitude    = 7105.34130859
+   longitude direction = W
+   altitude    = 10.6999998093
+   utm_x    = 327911
+   utm_y    = 4689574
+
+Message:
+   timestamp   = 150602.0
+   latitude = 4220.36376953
+   latitude direction    = N
+   longitude    = 7105.34082031
+   longitude direction = W
+   altitude    = 10.8000001907
+   utm_x    = 327911
+   utm_y    = 4689573
+
+Message:
+   timestamp   = 150603.0
+   latitude = 4220.36328125
+   latitude direction    = N
+   longitude    = 7105.34033203
+   longitude direction = W
+   altitude    = 10.8999996185
+   utm_x    = 327912
+   utm_y    = 4689572
+
+Message:
+   timestamp   = 150604.0
+   latitude = 4220.36279297
+   latitude direction    = N
+   longitude    = 7105.33984375
+   longitude direction = W
+   altitude    = 11.1000003815
+   utm_x    = 327912
+   utm_y    = 4689571
+
+Message:
+   timestamp   = 150605.0
+   latitude = 4220.36181641
+   latitude direction    = N
+   longitude    = 7105.33935547
+   longitude direction = W
+   altitude    = 11.3000001907
+   utm_x    = 327913
+   utm_y    = 4689570
+
+Message:
+   timestamp   = 150606.0
+   latitude = 4220.36132812
+   latitude direction    = N
+   longitude    = 7105.33886719
+   longitude direction = W
+   altitude    = 11.3999996185
+   utm_x    = 327914
+   utm_y    = 4689569
+
+Message:
+   timestamp   = 150607.0
+   latitude = 4220.36083984
+   latitude direction    = N
+   longitude    = 7105.33837891
+   longitude direction = W
+   altitude    = 11.5
+   utm_x    = 327914
+   utm_y    = 4689567
+
+Message:
+   timestamp   = 150608.0
+   latitude = 4220.35986328
+   latitude direction    = N
+   longitude    = 7105.33837891
+   longitude direction = W
+   altitude    = 11.5
+   utm_x    = 327914
+   utm_y    = 4689566
+
+Message:
+   timestamp   = 150609.0
+   latitude = 4220.359375
+   latitude direction    = N
+   longitude    = 7105.33789062
+   longitude direction = W
+   altitude    = 11.6999998093
+   utm_x    = 327915
+   utm_y    = 4689565
+
+Message:
+   timestamp   = 150610.0
+   latitude = 4220.35888672
+   latitude direction    = N
+   longitude    = 7105.33789062
+   longitude direction = W
+   altitude    = 11.6999998093
+   utm_x    = 327915
+   utm_y    = 4689564
+
+Message:
+   timestamp   = 150611.0
+   latitude = 4220.35839844
+   latitude direction    = N
+   longitude    = 7105.33789062
+   longitude direction = W
+   altitude    = 11.8999996185
+   utm_x    = 327915
+   utm_y    = 4689563
+
+Message:
+   timestamp   = 150612.0
+   latitude = 4220.35791016
+   latitude direction    = N
+   longitude    = 7105.33789062
+   longitude direction = W
+   altitude    = 12.1999998093
+   utm_x    = 327915
+   utm_y    = 4689562
+
+Message:
+   timestamp   = 150613.0
+   latitude = 4220.35742188
+   latitude direction    = N
+   longitude    = 7105.33789062
+   longitude direction = W
+   altitude    = 12.5
+   utm_x    = 327915
+   utm_y    = 4689561
+
+Message:
+   timestamp   = 150614.0
+   latitude = 4220.35644531
+   latitude direction    = N
+   longitude    = 7105.33789062
+   longitude direction = W
+   altitude    = 12.8999996185
+   utm_x    = 327915
+   utm_y    = 4689560
+
+Message:
+   timestamp   = 150615.0
+   latitude = 4220.35595703
+   latitude direction    = N
+   longitude    = 7105.33789062
+   longitude direction = W
+   altitude    = 13.1999998093
+   utm_x    = 327915
+   utm_y    = 4689559
+
+Message:
+   timestamp   = 150616.0
+   latitude = 4220.35546875
+   latitude direction    = N
+   longitude    = 7105.33789062
+   longitude direction = W
+   altitude    = 13.3999996185
+   utm_x    = 327915
+   utm_y    = 4689558
+
+Message:
+   timestamp   = 150617.0
+   latitude = 4220.35498047
+   latitude direction    = N
+   longitude    = 7105.33789062
+   longitude direction = W
+   altitude    = 13.5
+   utm_x    = 327915
+   utm_y    = 4689556
+
+Message:
+   timestamp   = 150618.0
+   latitude = 4220.35400391
+   latitude direction    = N
+   longitude    = 7105.33740234
+   longitude direction = W
+   altitude    = 13.6000003815
+   utm_x    = 327915
+   utm_y    = 4689555
+
+Message:
+   timestamp   = 150619.0
+   latitude = 4220.35351562
+   latitude direction    = N
+   longitude    = 7105.33740234
+   longitude direction = W
+   altitude    = 13.8000001907
+   utm_x    = 327915
+   utm_y    = 4689554
+
+Message:
+   timestamp   = 150620.0
+   latitude = 4220.35253906
+   latitude direction    = N
+   longitude    = 7105.33691406
+   longitude direction = W
+   altitude    = 14.1000003815
+   utm_x    = 327916
+   utm_y    = 4689552
+
+Message:
+   timestamp   = 150621.0
+   latitude = 4220.3515625
+   latitude direction    = N
+   longitude    = 7105.33642578
+   longitude direction = W
+   altitude    = 14.5
+   utm_x    = 327916
+   utm_y    = 4689551
+
+Message:
+   timestamp   = 150622.0
+   latitude = 4220.35107422
+   latitude direction    = N
+   longitude    = 7105.33642578
+   longitude direction = W
+   altitude    = 14.8999996185
+   utm_x    = 327917
+   utm_y    = 4689549
+
+Message:
+   timestamp   = 150623.0
+   latitude = 4220.35009766
+   latitude direction    = N
+   longitude    = 7105.3359375
+   longitude direction = W
+   altitude    = 15.5
+   utm_x    = 327917
+   utm_y    = 4689548
+
+Message:
+   timestamp   = 150624.0
+   latitude = 4220.34960938
+   latitude direction    = N
+   longitude    = 7105.33544922
+   longitude direction = W
+   altitude    = 16.0
+   utm_x    = 327918
+   utm_y    = 4689546
+
+Message:
+   timestamp   = 150625.0
+   latitude = 4220.34863281
+   latitude direction    = N
+   longitude    = 7105.33496094
+   longitude direction = W
+   altitude    = 16.5
+   utm_x    = 327918
+   utm_y    = 4689545
+
+Message:
+   timestamp   = 150626.0
+   latitude = 4220.34814453
+   latitude direction    = N
+   longitude    = 7105.33447266
+   longitude direction = W
+   altitude    = 16.7999992371
+   utm_x    = 327919
+   utm_y    = 4689544
+
