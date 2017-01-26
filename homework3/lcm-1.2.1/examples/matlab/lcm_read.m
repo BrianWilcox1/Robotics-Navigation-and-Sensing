@@ -1,5 +1,5 @@
 
-% Let’s assume the logging file is lcm-l.02 in the dir below
+% Let’s assume the logging file is gpgga-tenminutes in the dir below
 % open log file for reading
 log_file = lcm.logging.Log('../python/data/gpgga-tenminutes', 'r'); 
 
@@ -9,13 +9,13 @@ while true
  try
    ev = log_file.readNext();
    % channel name is in ev.channel
-   % there may be multiple channels but in this case you are only interested in RDI channel
+   % there may be multiple channels but in this case you are only interested in GPGGA channel
    if strcmp(ev.channel, 'GPGGA')
         
-     % build rdi object from data in this record
+     % build gpgga object from data in this record
       gps = exlcm.gpgga_data(ev.data());
 
-      % now you can do things like depending upon the rdi_t struct that was defined
+      % now you can do things like depending upon the gpgga struct that was defined
       utm_x(i) = gps.utm_x;
       utm_y(i) = gps.utm_y;
       i = i + 1;
