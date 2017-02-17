@@ -1,0 +1,17 @@
+package exlcm;
+
+struct vnimu_data
+{
+    float yaw;
+    float pitch;
+    float roll;
+    float magX;
+    float magY;
+    float magZ;
+    float accelX;
+    float accelY;
+    float accelZ;
+    float gyroX;
+    float gyroY;
+    float gyroZ;
+}
