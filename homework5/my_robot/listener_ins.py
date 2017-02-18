@@ -1,20 +1,13 @@
-import sys
 import lcm
 
-from exlcm import gpgga_data
+from exlcm import vnimu_data
 
-if len(sys.argv) < 2:
-    sys.stderr.write("usage: read-log <logfile>\n")
-    sys.exit(1)
-
-log = lcm.EventLog(sys.argv[1], "r")
-for event in log:
-    if event.channel == "GPGGA":
-        msg = vnimu_data.decode(event.data)
+def my_handler(channel, data):
+    msg = vnimu_data.decode(data)
     print("Received message on channel \"%s\"" % channel)
-    print("   Yaw    = {}".format (msg.Yaw))
-    print('   Pitch  = {}'.format(msg.Pitch))
-    print('   Roll   = {}'.format(msg.Roll))
+    print("   Yaw    = {}".format (msg.yaw))
+    print('   Pitch  = {}'.format(msg.pitch))
+    print('   Roll   = {}'.format(msg.roll))
     print("   magX   = {}".format (msg.magX))
     print('   magY  = {}'.format(msg.magY))
     print('   mayZ   = {}'.format(msg.magZ))
@@ -26,3 +19,13 @@ for event in log:
     print('   gyroZ   = {}'.format(msg.gyroZ))
     print("")
 
+lc = lcm.LCM()
+subscription = lc.subscribe("VNYMR", my_handler)
+
+try:
+    while True:
+        lc.handle()
+except KeyboardInterrupt:
+    pass
+
+lc.unsubscribe(subscription)
