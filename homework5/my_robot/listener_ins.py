@@ -20,7 +20,7 @@ def my_handler(channel, data):
     print("")
 
 lc = lcm.LCM()
-subscription = lc.subscribe("VNYMR", my_handler)
+subscription = lc.subscribe("IMU", my_handler)
 
 try:
     while True:

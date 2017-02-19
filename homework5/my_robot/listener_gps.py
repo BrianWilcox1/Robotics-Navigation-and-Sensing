@@ -16,7 +16,7 @@ def my_handler(channel, data):
     print("")
 
 lc = lcm.LCM()
-subscription = lc.subscribe("GPGGA", my_handler)
+subscription = lc.subscribe("GPS", my_handler)
 
 try:
     while True:
