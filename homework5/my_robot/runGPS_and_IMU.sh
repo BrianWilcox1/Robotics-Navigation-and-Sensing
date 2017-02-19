@@ -2,8 +2,7 @@
 ./gen_types.sh
 
 export CLASSPATH=$PWD/exlcm
-
-export LCM_DEFAULT_URL=udpm://192.168.43.35:7667?ttl=0
+export LCM_DEFAULT_URL=udpm://?ttl=1
 
 python gpgga-driver.py /dev/ttyl1 & 
 python imu-driver.py  /dev/ttyl0 &
