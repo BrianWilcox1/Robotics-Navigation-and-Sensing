@@ -5,7 +5,7 @@ import utm
 import sys
 from exlcm import gpgga_data
 
-lc = lcm.LCM()
+lc = lcm.LCM("udpm://?ttl=1")
 serStr = str(sys.argv[1])
 print(serStr)
 ser = serial.Serial(serStr, 4800, timeout=1)
@@ -33,6 +33,6 @@ while elapsed < 75:
 		u = utm.from_latlon(utm_lat, utm_long)
                 msg.utm_x = long(u[0])
 		msg.utm_y = long(u[1])
-		lc.publish("GPGGA", msg.encode())
+		lc.publish("GPS", msg.encode())
 	elapsed = initial - time.time() 
 

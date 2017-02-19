@@ -6,7 +6,7 @@ import sys
 
 from exlcm import vnimu_data
 
-lc = lcm.LCM()
+lc = lcm.LCM("udpm://?ttl=1")
 serStr = str(sys.argv[1])
 print(serStr)
 ser = serial.Serial(serStr, 115200, timeout=1)
@@ -31,6 +31,6 @@ while elapsed < 75:
         	msg.gyroY = float(line[11])
 		gyroZ = line[12].split('*')
         	msg.gyroZ = float(gyroZ[0])
-		lc.publish("VNYMR", msg.encode())
+		lc.publish("IMU", msg.encode())
 	elapsed = initial - time.time() 
 
